@@ -11,6 +11,6 @@ function camoflaugeFunction() {
 }
 
 function rebelFunction() {
-    document.getElementById("homicide").innerHTML = "";
-    document.getElementById("titleStory").innerHTML = "thing"
+    document.getElementById("homicide").innerHTML = "A jelly prison that is located in the South Pole has reported a missing inmate, on May 18th 2057. The escapee's name is Jerry 'Kreed' Mondello, he is sentenced to life in prison for murdering several men, they were all caucasion elderly bald men. The guards on duty reported that there was scrap metal that had been sharpened. According to some reports by the other inmates and staff they had been finding many metalic tables and carts breaking because of missing parts. Investigators believe that he used the metal stakes as a way to dig through his cell wall. Currently, police officers are on high alert and are asking the public to be carful at this time. They are also asking for the publics help if anyone happens to see him to report it and if anyone knows where he might go to go to a local police station to share your info.";
+    document.getElementById("titleStory").innerHTML = "Murder Convict on the Loose"
 }
